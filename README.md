@@ -1,2 +1,2 @@
 # DataScience-Masters
-This is Data Science Masters Notes by PWSkills
+This is Data Science Masters Notes from PWSkills classes
